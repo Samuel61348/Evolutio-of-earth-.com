@@ -1,0 +1,23 @@
+<!Doctype.html>
+<html>
+<title> About </title>
+<style>
+body {
+  background-image: url('space.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+<font color="white">
+<a href ="Form.html">Form&nbsp;</a>
+<a href ="Menu.html">Menu&nbsp;</a>
+<a href ="Home.html">Home&nbsp;</a>
+<a href ="About.html">About&nbsp;</a>
+<center>
+<p style="font-size:100px";>More about earth's history</p>
+<p>Earth is 1 AU away from the sun. it's polar diamater is 12,714km,it's eqatral diamater=12,756 because of the bulge effect the equateral diamater is longer and earth consists of 7 contents and195 countries.</p><br>
+<p>Thinkyou for visiting our site </p><br>
+<center>
+</body>
+</html>
